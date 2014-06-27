@@ -7,30 +7,10 @@ cd /Directory/Where/You/Want/To/Exist
 git status                            -check the status of the current directory (must be in the dir via commandline)
 git pull                              -update local branch/directory
 
+
+git add FileName.txt                  -add named file to list of files
+git add -A
+
+
 git commit -m
 git push
-
-
-
-
-
-
-
-
-
-
-
-Music and motions that remind me of you
-
-Summertimes Gone By
-Hollow feeling of hunger
-Sleeplessness
-An orange band about my wrist
-
-
-
-
-Heeled Feet
-Slim feet slipping out of heels
-Stilettoed heels splashing in puddles
-
